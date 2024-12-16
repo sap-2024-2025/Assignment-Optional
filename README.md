@@ -6,7 +6,7 @@ v0.9.0-20241209
 
 **Description** 
 
-- Consider one of the papers/readings suggested in the third (last) part of the course and prepare a short presentation (using slides, about 10 mins), discussing the content and eventually providing your own comments and idea about.
+- Consider one of the papers/readings suggested in this repo and prepare a short presentation (using slides, about 10 mins), discussing the content and eventually providing your own comments and idea about.
 
 - The presentation is meant to done during the oral discussion. 
 
