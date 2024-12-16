@@ -6,8 +6,8 @@ v0.9.0-20241209
 
 **Description** 
 
-- Consider one of the papers/readings suggested in this repo and prepare a short presentation (using slides, about 10 mins), discussing the content and eventually providing your own comments and idea about.
-
+- Consider one of the papers/readings suggested in this repo and prepare a short presentation (using slides, about 10 mins), discussing the content and eventually providing your own comments and idea about. Alternatively, we can start from your idea (about a topic/theme related to the suggested papers/readings, or to the course): in that case, first you send an abstract of your proposal by email (a.ricci@unibo.it), then, after getting an ack and possibly suggested refinements, you can proceed preparing the presentation. 
+  
 - The presentation is meant to done during the oral discussion. 
 
 **Deliverable**
