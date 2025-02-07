@@ -2,7 +2,7 @@
  
 # Assignment Optional - 20241209
 
-v0.9.0-20241209
+v1.0.0-20241210
 
 **Description** 
 
